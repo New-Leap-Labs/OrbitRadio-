@@ -254,14 +254,16 @@ At 9600 Hz sample rate:
 
 ## Memory Usage
 
-| Resource | Size | Usage |
-|----------|------|-------|
-| Flash | 512 KB | Program code, constants |
-| RAM | 96 KB | Runtime variables |
-| AX.25 Buffer | 512 bytes | Packet encoding |
-| RX Buffer | 260 bytes | UART reception |
-| Process Buffer | 260 bytes | Packet processing |
-| DAC Masks | 128 bytes | Precomputed GPIO values |
+| Resource        | Size       | Usage                        |
+| --------------- | ---------- | ---------------------------- |
+| Flash           | 512 KB     | Program code and constants   |
+| **SRAM**        | **128 KB** | Runtime data, stack, heap    |
+| **Backup SRAM** | **4 KB**   | Retained data during standby |
+| AX.25 Buffer    | 512 bytes  | Packet encoding              |
+| RX Buffer       | 260 bytes  | UART reception               |
+| Process Buffer  | 260 bytes  | Packet processing            |
+| DAC Masks       | 128 bytes  | Precomputed GPIO values      |
+
 
 ### Optimizations
 
@@ -377,4 +379,5 @@ For questions or support:
 **73 de Somaiya OrbitRadio Team**
 
 *Last updated: December 2025*
+
 
