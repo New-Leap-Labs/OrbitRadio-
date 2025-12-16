@@ -32,12 +32,15 @@ This project implements a complete APRS (Automatic Packet Reporting System) tran
 
 ### Microcontroller
 - STM32F446RE Nucleo board (or compatible STM32F4 series)
-- 84 MHz system clock
-- 512 KB Flash, 96 KB RAM
+- Upto 180 MHz system clock
+- 512 KB Flash memory
+- 128 KB SRAM + 4 KB backup SRAM
+
 
 ### Radio Module
 - DRA818U/V UHF/VHF transceiver module
-- Configured for 435.2480 MHz (default) or 435.2500 MHz (backup)
+- Currently configured for UHF operation at 435.2480 MHz (default) or 435.2500 MHz (backup)
+- Supports VHF operation as well (configurable when required)
 - UART control interface at 9600 baud
 
 ### DAC Configuration (4-bit R-2R Ladder)
@@ -374,3 +377,4 @@ For questions or support:
 **73 de Somaiya OrbitRadio Team**
 
 *Last updated: December 2025*
+
