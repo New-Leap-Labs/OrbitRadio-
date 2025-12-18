@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [OR_TM2Space.PcbDoc]
+   Generated File[OR_TM2Space PCB REV1-0.GTO]
+   Generated File[OR_TM2Space PCB REV1-0.GTP]
+   Generated File[OR_TM2Space PCB REV1-0.GTS]
+   Generated File[OR_TM2Space PCB REV1-0.GTL]
+   Generated File[OR_TM2Space PCB REV1-0.G1]
+   Generated File[OR_TM2Space PCB REV1-0.G2]
+   Generated File[OR_TM2Space PCB REV1-0.GBL]
+   Generated File[OR_TM2Space PCB REV1-0.GBS]
+   Generated File[OR_TM2Space PCB REV1-0.GBP]
+   Generated File[OR_TM2Space PCB REV1-0.GBO]
+   Generated File[OR_TM2Space PCB REV1-0.GM1]
+   Generated File[OR_TM2Space PCB REV1-0.GD1]
+   Generated File[OR_TM2Space PCB REV1-0.EXTREP]
+   Generated File[OR_TM2Space PCB REV1-0.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 19:44:25 On 05-11-2025

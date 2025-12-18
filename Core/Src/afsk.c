@@ -24,8 +24,8 @@ static volatile uint8_t afsk_running = 0;
  * Standard symmetric sine lookup for AFSK
  */
 static const uint8_t sine16[16] = {
-     8, 11, 13, 14, 15, 14, 13, 11,
-     8,  5,  2,  1,  0,  1,  2,  5
+     8, 11, 13, 14, 15, 15, 14, 13,  // Positive half (8 to 15)
+    11,  8,  5,  3,  1,  0,  0,  1   // Negative half (8 to 0)
 };
 
 /* sample rate and tone parameters */
@@ -213,7 +213,7 @@ void afsk_start(void)
 void afsk_stop(void)
 {
     afsk_running = 0;
-    DAC_Write4(8);  /* Return to mid-level (DC bias point) */
+    DAC_Write4(0);  /* Return to mid-level (DC bias point) */
 }
 
 /* afsk_timer_tick:
@@ -224,7 +224,7 @@ void afsk_stop(void)
 void afsk_timer_tick(void)
 {
     if (!afsk_running) {
-        DAC_Write4(8);  /* Mid-level when idle */
+        DAC_Write4(0);  /* Mid-level when idle */
         return;
     }
 

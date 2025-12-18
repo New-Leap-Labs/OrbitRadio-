@@ -1,0 +1,116 @@
+Altium Designer Pick and Place Locations
+C:\Users\np841\Downloads\OR_TM2Space (1)_05-11-2025\Project Outputs for OR_TM2Space\Pick Place for OR_TM2Space.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27-11-25
+Time:       08:31
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Layer       Center-X(mm) Center-Y(mm) Rotation 
+T1         BottomLayer 50.9594      40.8670      90       
+R31        BottomLayer 61.7008      53.3095      0        
+R30        BottomLayer 50.7594      43.5780      180      
+C42        BottomLayer 71.2254      49.9095      0        
+C41        BottomLayer 72.2129      42.7530      90       
+C40        BottomLayer 70.5740      42.7530      90       
+C39        BottomLayer 59.3932      35.6128      270      
+X1         BottomLayer 76.4258      46.3311      270      
+U4         BottomLayer 74.0758      32.5000      90       
+R29        BottomLayer 70.3063      65.5843      270      
+R22        BottomLayer 72.2690      45.5061      0        
+R20        BottomLayer 61.2008      35.1103      270      
+R19        BottomLayer 62.9508      35.1128      270      
+R18        BottomLayer 72.2941      47.2577      0        
+R16        BottomLayer 62.9495      31.7500      90       
+R15        BottomLayer 65.4308      32.5000      180      
+R14        BottomLayer 75.2758      35.8211      90       
+R3         BottomLayer 9.0190       47.8880      90       
+R1         BottomLayer 38.4940      48.0180      0        
+C34        BottomLayer 57.9508      35.9128      90       
+C33        BottomLayer 53.6000      48.6780      90       
+C32        BottomLayer 74.5258      37.7530      180      
+C30        BottomLayer 76.1757      42.3932      0        
+C28        BottomLayer 64.9008      36.3628      0        
+C27        BottomLayer 76.4758      49.9546      180      
+C26        BottomLayer 65.1308      52.7705      180      
+C25        BottomLayer 71.1475      33.9000      90       
+B2         BottomLayer 61.7008      44.9780      180      
+P2         TopLayer    78.5132      34.0500      270      
+U5         TopLayer    61.1548      65.5843      0        
+U3         TopLayer    60.7190      36.9530      270      
+U2         TopLayer    28.0995      66.4236      0        
+U1         TopLayer    29.7795      45.4780      180      
+R28        TopLayer    71.0340      65.9193      90       
+R27        TopLayer    53.4000      64.9493      0        
+R26        TopLayer    53.4000      66.2193      0        
+R25        TopLayer    68.9238      68.1486      90       
+R24        TopLayer    68.9238      63.6793      270      
+R23        TopLayer    47.6489      45.1811      180      
+R21        TopLayer    48.8347      51.3610      270      
+R17        TopLayer    46.8989      51.3610      90       
+R13        TopLayer    72.9419      29.1280      90       
+R12        TopLayer    72.9419      33.5780      90       
+R11        TopLayer    22.0995      62.0986      90       
+R10        TopLayer    33.1596      62.5986      90       
+R9         TopLayer    20.4745      63.5986      90       
+R8         TopLayer    34.6120      64.9861      90       
+R7         TopLayer    30.2345      61.5986      0        
+R6         TopLayer    18.8495      65.0986      90       
+R5         TopLayer    35.3745      66.9236      180      
+R4         TopLayer    34.6245      69.1236      90       
+R2         TopLayer    34.6245      72.5166      90       
+Q2         TopLayer    17.0758      70.5436      270      
+Q1         TopLayer    21.2495      70.4461      270      
+P1         TopLayer    47.7470      59.1750      90       
+L8         TopLayer    16.3940      11.4030      270      
+L7         TopLayer    16.3940      19.7280      270      
+L6         TopLayer    18.8500      25.4280      180      
+L5         TopLayer    26.3690      25.4280      180      
+L4         TopLayer    33.4440      25.4280      180      
+L3         TopLayer    41.8440      25.4280      180      
+L2         TopLayer    10.3859      40.4080      270      
+L1         TopLayer    40.5157      66.6486      90       
+J6         TopLayer    43.5540      86.8660      0        
+J5         TopLayer    43.4270      81.4050      0        
+J4         TopLayer    77.3640      63.4090      90       
+J3         TopLayer    78.5132      26.8890      90       
+J2         TopLayer    19.9750      8.8063       0        
+J1         TopLayer    9.2000       63.4020      270      
+FB1        TopLayer    50.2690      70.0293      0        
+D1         TopLayer    33.8745      75.0876      0        
+C38        TopLayer    53.9000      70.4793      90       
+C37        TopLayer    52.3170      70.7793      90       
+C36        TopLayer    70.7340      60.6893      270      
+C35        TopLayer    68.9189      60.3893      270      
+C31        TopLayer    47.6489      46.9349      180      
+C29        TopLayer    47.6489      48.7182      180      
+C24        TopLayer    72.9419      21.3280      90       
+C23        TopLayer    16.3940      8.0562       90       
+C22        TopLayer    15.6440      17.2780      0        
+C21        TopLayer    15.6440      25.4280      0        
+C20        TopLayer    23.7793      24.6780      90       
+C19        TopLayer    30.9940      24.6780      90       
+C18        TopLayer    39.4440      24.6780      90       
+C17        TopLayer    48.6116      26.1780      270      
+C16        TopLayer    16.3940      14.5780      270      
+C15        TopLayer    16.3940      22.8530      270      
+C14        TopLayer    21.6950      25.4280      180      
+C13        TopLayer    28.8190      25.4280      180      
+C12        TopLayer    36.6938      25.4280      180      
+C11        TopLayer    45.2690      25.4280      180      
+C10        TopLayer    26.0535      61.3486      180      
+C9         TopLayer    14.7455      51.7030      270      
+C8         TopLayer    15.0190      45.3030      0        
+C7         TopLayer    10.5190      52.7780      180      
+C6         TopLayer    8.5665       48.2490      90       
+C5         TopLayer    40.5157      72.5273      90       
+C4         TopLayer    36.8977      61.3878      180      
+C3         TopLayer    14.7455      48.2740      90       
+C2         TopLayer    15.4940      36.3580      270      
+C1         TopLayer    22.9245      74.6658      180      
+B3         TopLayer    77.1233      42.3932      270      
+B1         TopLayer    11.7690      49.0280      270      

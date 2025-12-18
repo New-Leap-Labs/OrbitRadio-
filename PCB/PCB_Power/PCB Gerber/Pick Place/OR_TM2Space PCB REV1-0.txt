@@ -1,0 +1,116 @@
+Altium Designer Pick and Place Locations
+D:\Work\OR_TM2Space_1\OR_TM2Space (2)\OR_TM2Space (1)\.\PCB Gerber\Pick Place\OR_TM2Space PCB REV1-0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       05-11-25
+Time:       19:44
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment               Manufacturer        "Manufacturer Part Number" Center-X(mm) Center-Y(mm) Rotation Footprint                        Variation Layer       
+B1         ADP7158ACPZ-3.3-R7    ""                  ""                         11.7690      49.0280      270      LFCSP_-10                        Fitted    TopLayer    
+B2         STM32F446RET6         ""                  ""                         61.7008      44.9780      180      LQFP64                           Fitted    BottomLayer 
+B3         "PTS526SK15SMTR2 LFS" ""                  ""                         77.1233      42.3932      270      PTS526SK15SMTR2_LFS              Fitted    TopLayer    
+C1         "10uF 50V 1210 X7R"   ""                  ""                         22.9245      74.6658      180      CAP1210S                         Fitted    TopLayer    
+C2         1uF                   ""                  ""                         15.4940      36.3580      270      CAP0603S                         Fitted    TopLayer    
+C3         1uF                   ""                  ""                         14.7455      48.2740      90       CAP0603S                         Fitted    TopLayer    
+C4         10uF                  ""                  ""                         36.8977      61.3878      180      CAP0603S                         Fitted    TopLayer    
+C5         10uF                  ""                  ""                         40.5157      72.5273      90       CAP0603S                         Fitted    TopLayer    
+C6         1uF                   ""                  ""                         8.5665       48.2490      90       CAP0603S                         Fitted    TopLayer    
+C7         1uF                   ""                  ""                         10.5190      52.7780      180      CAP0603S                         Fitted    TopLayer    
+C8         10uF                  ""                  ""                         15.0190      45.3030      0        CAP0603S                         Fitted    TopLayer    
+C9         10uF                  ""                  ""                         14.7455      51.7030      270      CAP0603S                         Fitted    TopLayer    
+C10        "0.012uF 25V X7R"     ""                  ""                         26.0535      61.3486      180      CAP0805S                         Fitted    TopLayer    
+C11        3.6pF                 ""                  ""                         45.2690      25.4280      180      CAP0603S                         Fitted    TopLayer    
+C12        3.3pF                 ""                  ""                         36.6938      25.4280      180      CAP0603S                         Fitted    TopLayer    
+C13        3pF                   ""                  ""                         28.8190      25.4280      180      CAP0402S                         Fitted    TopLayer    
+C14        3pF                   ""                  ""                         21.6950      25.4280      180      CAP0402S                         Fitted    TopLayer    
+C15        3.3pF                 ""                  ""                         16.3940      22.8530      270      CAP0603S                         Fitted    TopLayer    
+C16        3.6pF                 ""                  ""                         16.3940      14.5780      270      CAP0603S                         Fitted    TopLayer    
+C17        5.6pF                 ""                  ""                         48.6116      26.1780      270      CAP0603S                         Fitted    TopLayer    
+C18        20pF                  ""                  ""                         39.4440      24.6780      90       CAP0603S                         Fitted    TopLayer    
+C19        39pF                  ""                  ""                         30.9940      24.6780      90       CAP0603S                         Fitted    TopLayer    
+C20        43pF                  ""                  ""                         23.7793      24.6780      90       CAP0603S                         Fitted    TopLayer    
+C21        39pF                  ""                  ""                         15.6440      25.4280      0        CAP0603S                         Fitted    TopLayer    
+C22        20pF                  ""                  ""                         15.6440      17.2780      0        CAP0603S                         Fitted    TopLayer    
+C23        5.6pF                 ""                  ""                         16.3940      8.0562       90       CAP0603S                         Fitted    TopLayer    
+C24        "0.1uF 16V 0402 X7R"  Murata              GRM155R71C104KA88D         72.9419      21.3280      90       CAP0402S                         Fitted    TopLayer    
+C25        100nF                 Kemet               C0402C104K8PACTU           71.1475      33.9000      90       CAP0402S                         Fitted    BottomLayer 
+C26        "0.1uF 16V 0402 X7R"  Murata              GRM155R71C104KA88D         65.1308      52.7705      180      CAP0402S                         Fitted    BottomLayer 
+C27        20pF                  ""                  ""                         76.4758      49.9546      180      C0201                            Fitted    BottomLayer 
+C28        "0.1uF 16V 0402 X7R"  Murata              GRM155R71C104KA88D         64.9008      36.3628      0        CAP0402S                         Fitted    BottomLayer 
+C29        4.7uF                 ""                  ""                         47.6489      48.7182      180      CAP0603S                         Fitted    TopLayer    
+C30        20pF                  ""                  ""                         76.1757      42.3932      0        C0201                            Fitted    BottomLayer 
+C31        0.1uF                 ""                  ""                         47.6489      46.9349      180      CAP0603S                         Fitted    TopLayer    
+C32        100nF                 ""                  ""                         74.5258      37.7530      180      CAP0603S                         Fitted    BottomLayer 
+C33        "0.1uF 16V 0402 X7R"  Murata              GRM155R71C104KA88D         53.6000      48.6780      90       CAP0402S                         Fitted    BottomLayer 
+C34        "0.1uF 16V 0402 X7R"  Murata              GRM155R71C104KA88D         57.9508      35.9128      90       CAP0402S                         Fitted    BottomLayer 
+C35        1uF                   ""                  ""                         68.9189      60.3893      270      CAP0603S                         Fitted    TopLayer    
+C36        100nF                 Kemet               C0402C104K8PACTU           70.7340      60.6893      270      CAP0402S                         Fitted    TopLayer    
+C37        1uF                   ""                  ""                         52.3170      70.7793      90       CAP0603S                         Fitted    TopLayer    
+C38        100nF                 Kemet               C0402C104K8PACTU           53.9000      70.4793      90       CAP0402S                         Fitted    TopLayer    
+C39        4.7uF                 ""                  ""                         59.3932      35.6128      270      CAP0603S                         Fitted    BottomLayer 
+C40        0.1uF                 ""                  ""                         70.5740      42.7530      90       CAP0603S                         Fitted    BottomLayer 
+C41        1uF                   ""                  ""                         72.2129      42.7530      90       CAP0603S                         Fitted    BottomLayer 
+C42        0.1uF                 ""                  ""                         71.2254      49.9095      0        CAP0603S                         Fitted    BottomLayer 
+D1         RED                   ""                  ""                         33.8745      75.0876      0        LED_0603_RED                     Fitted    TopLayer    
+FB1        "120Ohm Bead"         ""                  ""                         50.2690      70.0293      0        FB0402S                          Fitted    TopLayer    
+J1         G125-MH10605M4P       ""                  ""                         9.2000       63.4020      270      HARWIN_G125-MH10605M4P           Fitted    TopLayer    
+J2         CONMMCX001            ""                  ""                         19.9750      8.8063       0        SAMTEC_MMCX-J-P-H-ST-SM1         Fitted    TopLayer    
+J3         61300211121           ""                  ""                         78.5132      26.8890      90       HDR_P2.54_2X1_VERTICAL_TH        Fitted    TopLayer    
+J4         G125-MH10605M4P       ""                  ""                         77.3640      63.4090      90       HARWIN_G125-MH10605M4P           Fitted    TopLayer    
+J5         ESQ-126-39-G-D        ""                  ""                         43.4270      81.4050      0        SAMTEC_ESQ-126-39-G-D            Fitted    TopLayer    
+J6         ESQ-126-39-G-D        ""                  ""                         43.5540      86.8660      0        SAMTEC_ESQ-126-39-G-D            Fitted    TopLayer    
+L1         100uH                 ""                  ""                         40.5157      66.6486      90       IND_SEMI_SHIELD_6.0X6.0_H4.5_SMD Fitted    TopLayer    
+L2         100uH                 ""                  ""                         10.3859      40.4080      270      IND_SEMI_SHIELD_6.0X6.0_H4.5_SMD Fitted    TopLayer    
+L3         51nH                  ""                  ""                         41.8440      25.4280      180      IND0603S                         Fitted    TopLayer    
+L4         51nH                  ""                  ""                         33.4440      25.4280      180      IND0603S                         Fitted    TopLayer    
+L5         51nH                  ""                  ""                         26.3690      25.4280      180      IND0603S                         Fitted    TopLayer    
+L6         51nH                  ""                  ""                         18.8500      25.4280      180      IND0603S                         Fitted    TopLayer    
+L7         51nH                  ""                  ""                         16.3940      19.7280      270      IND0603S                         Fitted    TopLayer    
+L8         51nH                  ""                  ""                         16.3940      11.4030      270      IND0603S                         Fitted    TopLayer    
+P1         61300411121           ""                  ""                         47.7470      59.1750      90       HDR_P2.0_4X1_VERTICAL_TH         Fitted    TopLayer    
+P2         61300411121           ""                  ""                         78.5132      34.0500      270      HDR_P2.0_4X1_VERTICAL_TH         Fitted    TopLayer    
+Q1         CSD19537Q3            ""                  ""                         21.2495      70.4461      270      TRANS_CSD19537Q3                 Fitted    TopLayer    
+Q2         2N7002-7-F            ""                  ""                         17.0758      70.5436      270      SOT23_3                          Fitted    TopLayer    
+R1         0E                    ""                  ""                         38.4940      48.0180      0        RES0402S                         Fitted    BottomLayer 
+R2         "330E 1% 0603"        ""                  ""                         34.6245      72.5166      90       RES0603S                         Fitted    TopLayer    
+R3         "10k 10% 0805"        ""                  ""                         9.0190       47.8880      90       RES0805S                         Fitted    BottomLayer 
+R4         "499k 1% 0603"        ""                  ""                         34.6245      69.1236      90       RES0603S                         Fitted    TopLayer    
+R5         "56k 1% 0603"         ""                  ""                         35.3745      66.9236      180      RES0603S                         Fitted    TopLayer    
+R6         "190k 1% 0603"        ""                  ""                         18.8495      65.0986      90       RES0603S                         Fitted    TopLayer    
+R7         "14k 1% 0603"         ""                  ""                         30.2345      61.5986      0        RES0603S                         Fitted    TopLayer    
+R8         "80k 1% 0603"         ""                  ""                         34.6120      64.9861      90       RES0402S                         Fitted    TopLayer    
+R9         "35k 1% 0603"         ""                  ""                         20.4745      63.5986      90       RES0603S                         Fitted    TopLayer    
+R10        0E_DNP                ""                  ""                         33.1596      62.5986      90       RES0603S                         Fitted    TopLayer    
+R11        "34k 1% 0603"         ""                  ""                         22.0995      62.0986      90       RES0603S                         Fitted    TopLayer    
+R12        CRCW060310K0FKEAC     ""                  ""                         72.9419      33.5780      90       RES0603S                         Fitted    TopLayer    
+R13        CRCW060310K0FKEAC     ""                  ""                         72.9419      29.1280      90       RES0603S                         Fitted    TopLayer    
+R14        "0E 1% 0402"          ""                  ""                         75.2758      35.8211      90       RES0402S                         Fitted    BottomLayer 
+R15        "10k ohm"             ""                  ""                         65.4308      32.5000      180      RES0603S                         Fitted    BottomLayer 
+R16        "4.7k ohm"            ""                  ""                         62.9495      31.7500      90       RES0603S                         Fitted    BottomLayer 
+R17        "100k ohm"            ""                  ""                         46.8989      51.3610      90       RES0603S                         Fitted    TopLayer    
+R18        10E                   ""                  ""                         72.2941      47.2577      0        RES0603S                         Fitted    BottomLayer 
+R19        "2.2k ohm"            ""                  ""                         62.9508      35.1128      270      RES0603S                         Fitted    BottomLayer 
+R20        "1k ohm"              ""                  ""                         61.2008      35.1103      270      RES0603S                         Fitted    BottomLayer 
+R21        "1k ohm"              ""                  ""                         48.8347      51.3610      270      RES0603S                         Fitted    TopLayer    
+R22        10E                   ""                  ""                         72.2690      45.5061      0        RES0603S                         Fitted    BottomLayer 
+R23        "270 ohm"             ""                  ""                         47.6489      45.1811      180      RES0603S                         Fitted    TopLayer    
+R24        120R                  Panasonic           ""                         68.9238      63.6793      270      RES0805S                         Fitted    TopLayer    
+R25        120R                  Panasonic           ""                         68.9238      68.1486      90       RES0805S                         Fitted    TopLayer    
+R26        10K                   Panasonic           ""                         53.4000      66.2193      0        RES0402S                         Fitted    TopLayer    
+R27        10K                   Panasonic           ""                         53.4000      64.9493      0        RES0402S                         Fitted    TopLayer    
+R28        0E_DNP                ""                  ""                         71.0340      65.9193      90       RES0603S                         Fitted    TopLayer    
+R29        0E_DNP                ""                  ""                         70.3063      65.5843      270      RES0603S                         Fitted    BottomLayer 
+R30        "10k ohm"             ""                  ""                         50.7594      43.5780      180      RES0603S                         Fitted    BottomLayer 
+R31        "10k ohm"             ""                  ""                         61.7008      53.3095      0        RES0603S                         Fitted    BottomLayer 
+T1         2N7002Q-7-F           ""                  ""                         50.9594      40.8670      90       SOT23_3                          Fitted    BottomLayer 
+U1         CC6-0505SF-E          ""                  ""                         29.7795      45.4780      180      CONV_CC6-0505SF-E                Fitted    TopLayer    
+U2         TPS26633PWPR          ""                  ""                         28.0995      66.4236      0        SOP65P640X110-21N                Fitted    TopLayer    
+U3         DRA818U               ""                  ""                         60.7190      36.9530      270      DRA818U                          Fitted    TopLayer    
+U4         TPS3828-33DBVR        "Texas Instruments" TPS3828-33DBVT             74.0758      32.5000      90       SOT23-5                          Fitted    BottomLayer 
+U5         ADM2582EBRWZ          ""                  ""                         61.1548      65.5843      0        SOIC-20                          Fitted    TopLayer    
+X1         8MHz(16pF)[N/A]       ""                  ""                         76.4258      46.3311      270      WE-XTAL_CFPX-104                 Fitted    BottomLayer 

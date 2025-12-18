@@ -325,7 +325,7 @@ static void TransmitTelemetry(const char *payload_text)
     while (*payload_text && len < 100) {
         temp[len++] = *payload_text++;
     }
-    const char *suffix = " | SVV-KJSIT, NEW LEAP LABS, Somaiya OrbitRadio 73";
+    const char *suffix = " | SVV-KJSIT x TakeMe2Space, NEW LEAP LABS, Somaiya OrbitRadio 73";
     while (*suffix && len < 127) {
         temp[len++] = *suffix++;
     }
